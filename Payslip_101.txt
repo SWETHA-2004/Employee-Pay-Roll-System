@@ -1,0 +1,19 @@
+******** PAYSLIP (Permanent) ********
+Employee ID   : 101
+Name          : Swetha
+Department    : SOFTWARE DEVELOPMENT
+Location      : HYDERABAD
+Date of Join  : 25-09-2025
+Bank Name     : Indian Bank
+Account No.   : 753452325383
+PF Number     : 98766356/hghefg/984865
+PF UAN        : 47566342565867855
+--------------------------------------
+Basic Salary  : 30000.0
+HRA (20%)     : 6000.0
+DA (10%)      : 3000.0
+Tax (5%)      : 1950.0
+Net Salary    : 37050.0
+Facility      : TRAVEL
+Entity        : SOFTWARE DEVELOPMENT
+**************************************

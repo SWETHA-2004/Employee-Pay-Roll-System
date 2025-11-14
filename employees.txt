@@ -1,0 +1,19 @@
+==================================
+Employee ID   : 101
+Employee Name : swetha
+Basic Salary  : 30000.0
+Bank Name     : Indian Bank
+Account No    : 6876564654
+Date of Join  : 25-09-2025
+Loss of Pay   : 0
+PF Number     : 867657567745
+Standard Days : 31
+Location      : Hyderabad
+Worked Days   : 31
+Department    : AICTE
+Mgmt Level    : 11
+Facility      : hYDERABAD
+Entity        : AICTE
+PF UAN No.    : 98676654675
+Employee Type : Permanent
+Net S

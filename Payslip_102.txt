@@ -1,0 +1,19 @@
+******** PAYSLIP (Permanent) ********
+Employee ID   : 102
+Name          : Shreshta
+Department    : Devops
+Location      : Warangal
+Date of Join  : 10-08-2025
+Bank Name     : SBI
+Account No.   : 976533947456
+PF Number     : 088564894785
+PF UAN        : 98846573748396
+--------------------------------------
+Basic Salary  : 45000.0
+HRA (20%)     : 9000.0
+DA (10%)      : 4500.0
+Tax (5%)      : 2925.0
+Net Salary    : 55575.0
+Facility      : Hyderabad
+Entity        : Devops
+**************************************
